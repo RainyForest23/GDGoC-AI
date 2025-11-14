@@ -1,6 +1,6 @@
 # GDGoC AI 2주차 회고 - 지도학습 vs 비지도학습
 
-## I. Fact (사실)
+## I. Fact
 
 ### 실습 데이터셋
 - **PIMA 당뇨병 데이터셋**: 768개 샘플, 9개 특성 (Glucose, BMI, Age 등)
@@ -26,14 +26,14 @@
 
 ---
 
-## Feeling (느낌)
+## II. Feeling
 Introduction to Machine Learning (pf. 이형준) 강의를 수강하며 머신러닝 구현보다는 이론적/수학적인 부분에 대하여 배울 수 있었는데, 이번 세션을 통하여 실제로 실습을 진행하면서 어떻게 쓰이는지 알아갈 수 있게 되어 유익했다. 
 
 그래서 Finding Part에는 실습에서 나온 내용들을 이론적 배경과 함께 정리함
 
 ---
 
-## Finding (발견/배움)
+## III. Finding
 
 ## 1. 지도학습 (Supervised Learning)
 
